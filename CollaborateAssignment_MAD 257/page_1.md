@@ -2,7 +2,7 @@
 
 Jonathan edits the main branch.
 
-I don't like your line one... I think it should be this.
+I don't like your line one... I think it should be this. (NOTE: This is good lets keep this and merge it)
 This is the second line.
 this is the third line.
 this is the fourth line.
