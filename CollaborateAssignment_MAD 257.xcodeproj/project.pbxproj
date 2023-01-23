@@ -24,6 +24,7 @@
 		818B588B297F011E00853BA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		818B588E297F011E00853BA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		818B5890297F011E00853BA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		818B5896297F014A00853BA6 /* page_1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = page_1.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		818B5881297F011D00853BA6 /* CollaborateAssignment_MAD 257 */ = {
 			isa = PBXGroup;
 			children = (
+				818B5896297F014A00853BA6 /* page_1.md */,
 				818B5882297F011D00853BA6 /* AppDelegate.swift */,
 				818B5884297F011D00853BA6 /* SceneDelegate.swift */,
 				818B5886297F011D00853BA6 /* ViewController.swift */,
