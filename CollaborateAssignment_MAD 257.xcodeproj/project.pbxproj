@@ -26,6 +26,7 @@
 		818B5890297F011E00853BA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		818B5896297F014A00853BA6 /* page_1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = page_1.md; sourceTree = "<group>"; };
 		818B5898297F02EE00853BA6 /* page_2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = page_2.md; sourceTree = "<group>"; };
+		8198D0CD297F053400A70E28 /* page_3.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = page_3.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			children = (
 				818B5896297F014A00853BA6 /* page_1.md */,
 				818B5898297F02EE00853BA6 /* page_2.md */,
+				8198D0CD297F053400A70E28 /* page_3.md */,
 				818B5882297F011D00853BA6 /* AppDelegate.swift */,
 				818B5884297F011D00853BA6 /* SceneDelegate.swift */,
 				818B5886297F011D00853BA6 /* ViewController.swift */,
