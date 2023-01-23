@@ -1,8 +1,12 @@
 #  Page 4
 
-this happens
+This happens.
 
-then eveyrone is happy,
+Some good things happen.
+Some bad things happen... but more good.
 
-then end.
+Everythnig works out for our heroes and everyone lives happily ever after.
+
+the end
+
 
